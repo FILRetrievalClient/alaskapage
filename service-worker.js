@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alaskapage/precache-manifest.3bede2c620cfc0e0e65ed45268b2cdc4.js"
+  "/alaskapage/precache-manifest.03d639bcb2edb61bc69d1ad8ce4ee7f8.js"
 );
 
 self.addEventListener('message', (event) => {
