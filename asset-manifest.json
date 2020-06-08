@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/alaskapage/static/css/main.9392cfbf.chunk.css",
-    "main.js": "/alaskapage/static/js/main.b1c2c6bf.chunk.js",
-    "main.js.map": "/alaskapage/static/js/main.b1c2c6bf.chunk.js.map",
+    "main.js": "/alaskapage/static/js/main.5b4f8915.chunk.js",
+    "main.js.map": "/alaskapage/static/js/main.5b4f8915.chunk.js.map",
     "runtime-main.js": "/alaskapage/static/js/runtime-main.8543afaf.js",
     "runtime-main.js.map": "/alaskapage/static/js/runtime-main.8543afaf.js.map",
     "static/js/2.f790dc0c.chunk.js": "/alaskapage/static/js/2.f790dc0c.chunk.js",
     "static/js/2.f790dc0c.chunk.js.map": "/alaskapage/static/js/2.f790dc0c.chunk.js.map",
     "index.html": "/alaskapage/index.html",
-    "precache-manifest.c2a08b6476039f6076e3524fece7b3db.js": "/alaskapage/precache-manifest.c2a08b6476039f6076e3524fece7b3db.js",
+    "precache-manifest.602b84ffc9c17d5614fed80388323e87.js": "/alaskapage/precache-manifest.602b84ffc9c17d5614fed80388323e87.js",
     "service-worker.js": "/alaskapage/service-worker.js",
     "static/css/main.9392cfbf.chunk.css.map": "/alaskapage/static/css/main.9392cfbf.chunk.css.map",
     "static/js/2.f790dc0c.chunk.js.LICENSE.txt": "/alaskapage/static/js/2.f790dc0c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8543afaf.js",
     "static/js/2.f790dc0c.chunk.js",
     "static/css/main.9392cfbf.chunk.css",
-    "static/js/main.b1c2c6bf.chunk.js"
+    "static/js/main.5b4f8915.chunk.js"
   ]
 }

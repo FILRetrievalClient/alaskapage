@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1f147c3e1c2c95eefb4fd95f2de1715",
+    "revision": "bccf95b2793836f6b013ace502975769",
     "url": "/alaskapage/index.html"
   },
   {
-    "revision": "10a55cc0bf98530b7740",
+    "revision": "24ed25b6c688db5eb677",
     "url": "/alaskapage/static/css/main.9392cfbf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alaskapage/static/js/2.f790dc0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10a55cc0bf98530b7740",
-    "url": "/alaskapage/static/js/main.b1c2c6bf.chunk.js"
+    "revision": "24ed25b6c688db5eb677",
+    "url": "/alaskapage/static/js/main.5b4f8915.chunk.js"
   },
   {
     "revision": "0683f469d43a8348914f",
